@@ -1,2 +1,2 @@
 # COMP1100-A3
-COMP1100-A3 专业辅导
+## VX: csprojhelp 备注: github
